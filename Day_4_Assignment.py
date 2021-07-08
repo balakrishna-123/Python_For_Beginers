@@ -1,6 +1,3 @@
-#Assignment 3
-
-
 #You all are pilots, you have to land a plane, the altitude required for landing a plane is 1000ft,
 #if it is less than that tell pilot to land the plane,or 
 #it is more than but less than 5000ft ask the pilot to "come down to 1000ft"
